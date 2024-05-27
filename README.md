@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Mahmoud Kozae
-- 👀 I’m interested in all types of Software Development; generally problem solving via software. I am not committed to a platform, technology, or method. However, my favorites, in no particulat order or categorization, are: .NET, Rust , Web Development, Machine Learning.
-- 🌱 I’m currently learning Deep Learning for Computer Vision
-- 💞️ I’m looking to collaborate on software and methods for Textual Scholarship
-- 📫 How to reach me m.kozae@gmail.com
++ Hi, I’m Mahmoud Kozae
++ I'm a software developer experienced in full stack cloud native development.
++ I currently work daily with: 
+  -  Programming Langauges: __Rust__, __Typescript__, and __Python__
+  -  Frameworks: __React, Angular, Astro__, and __Langchain__.
+  -  Infrastructure: __AWS__.
++ I have extended experience in and work frequently with: C#, F#, ASP.NET, Next.js, MongoDB, PostgreSQL.
++ I have some experience in: Java, Go, C++, Dart, Ruby, Django, and Miscrosoft Azure.
++ Reach me at: contact@mkozae.com
 
 <!---
 kozae/kozae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
