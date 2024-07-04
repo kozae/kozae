@@ -5,7 +5,7 @@
   -  Frameworks: __React, Angular, Astro__, and __Langchain__.
   -  Infrastructure: __AWS__.
 + I have extended experience in and work frequently with: C#, F#, ASP.NET, Next.js, MongoDB, PostgreSQL.
-+ I have some experience in: Java, Go, C++, Dart, Ruby, Django, and Miscrosoft Azure.
++ I have some experience in: Java, Go, C++, Dart, Ruby, Django, and Azure.
 + Reach me at: contact@mkozae.com
 
 <!---
