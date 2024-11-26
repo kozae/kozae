@@ -1,11 +1,11 @@
 + Hi, I’m Mahmoud Kozae
 + I'm a software developer experienced in full stack cloud native development.
 + I currently work daily with: 
-  -  Programming Langauges: __Rust__, __Typescript__, and __Python__
-  -  Frameworks: __React, Angular, Astro__, and __Langchain__.
+  -  Programming Langauges: __C#__, __Rust__, and __Typescript__
+  -  Frameworks: __ASP.NET, Angular, Astro__, and __Langchain__.
   -  Infrastructure: __AWS__.
-+ I have extended experience in and work frequently with: C#, F#, ASP.NET, Next.js, MongoDB, PostgreSQL.
-+ I have some experience in: Java, Go, C++, Dart, Ruby, Django, and Azure.
++ I have extended experience in and work frequently with: Python, F#, React/Next.js, Svelte, MongoDB, PostgreSQL.
++ I have some experience in: Java, Go, C++, Dart, Ruby, Django, Vue, and Azure.
 + Reach me at: contact@mkozae.com
 
 <!---
